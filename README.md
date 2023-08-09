@@ -1,7 +1,7 @@
 # 😎 Dennis Yun
 
 ## 👀 Most Used Languages
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisYun&layout=compact&langs_count=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisYun&layout=compact&langs_count=20)
 
 ## 😆 Meme
 ![](.github/포기하면%20그%20순간이%20바로%20발전%20종료예요.png)
